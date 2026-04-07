@@ -4,6 +4,8 @@ Este repositório contém a versão mais atualizada do meu currículo, estrutura
 
 ## 📥 Downloads
 * [**Clique aqui para baixar o currículo em PDF**](https://github.com/Nathabe03/Curriculo/blob/main/main.pdf)
+* [**Clique aqui para baixar o currículo ENG em PDF**](https://github.com/Nathabe03/Curriculo/blob/main/main_eng.pdf)
+
 
 ## Tecnologias em Destaque
 * **Backend:** Node.js, Express, Python.
